@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ReactSecond/static/css/main.f4853152.chunk.css",
+    "main.js": "/ReactSecond/static/js/main.b9e5757b.chunk.js",
+    "main.js.map": "/ReactSecond/static/js/main.b9e5757b.chunk.js.map",
+    "runtime-main.js": "/ReactSecond/static/js/runtime-main.3a80b20a.js",
+    "runtime-main.js.map": "/ReactSecond/static/js/runtime-main.3a80b20a.js.map",
+    "static/css/2.4be38407.chunk.css": "/ReactSecond/static/css/2.4be38407.chunk.css",
+    "static/js/2.3d8fb5ce.chunk.js": "/ReactSecond/static/js/2.3d8fb5ce.chunk.js",
+    "static/js/2.3d8fb5ce.chunk.js.map": "/ReactSecond/static/js/2.3d8fb5ce.chunk.js.map",
+    "static/js/3.a60d9dc3.chunk.js": "/ReactSecond/static/js/3.a60d9dc3.chunk.js",
+    "static/js/3.a60d9dc3.chunk.js.map": "/ReactSecond/static/js/3.a60d9dc3.chunk.js.map",
+    "index.html": "/ReactSecond/index.html",
+    "static/css/2.4be38407.chunk.css.map": "/ReactSecond/static/css/2.4be38407.chunk.css.map",
+    "static/css/main.f4853152.chunk.css.map": "/ReactSecond/static/css/main.f4853152.chunk.css.map",
+    "static/js/2.3d8fb5ce.chunk.js.LICENSE.txt": "/ReactSecond/static/js/2.3d8fb5ce.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3a80b20a.js",
+    "static/css/2.4be38407.chunk.css",
+    "static/js/2.3d8fb5ce.chunk.js",
+    "static/css/main.f4853152.chunk.css",
+    "static/js/main.b9e5757b.chunk.js"
+  ]
+}
